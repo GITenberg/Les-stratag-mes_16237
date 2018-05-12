@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6556
     wikipedia: http://en.wikipedia.org/wiki/Sextus_Julius_Frontinus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16237#Les-stratag-mes
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2005-07-07'
 gutenberg_type: Text

@@ -1,0 +1,41 @@
+_repo: Les-stratag-mes_16237
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bailly, C. (Charles)
+    aliases:
+    - Merlieux, C. Bailly de (Charles Bailly)
+    - Bailly, Charles
+    birthdate: 1800
+    deathdate: 1862
+    gutenberg_agent_id: '6557'
+    url: http://www.gutenberg.org/2009/agents/6557
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frontinus, Sextus Julius
+    aliases:
+    - Frontini, Iuli
+    - Frontino, Sexto Julio
+    - Frontino, Sesto Giulio
+    gutenberg_agent_id: '6556'
+    url: http://www.gutenberg.org/2009/agents/6556
+    wikipedia: http://en.wikipedia.org/wiki/Sextus_Julius_Frontinus
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2005-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16237'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'U'
+- !lcsh 'Deception (Military science) -- Early works to 1800'
+- !lcsh 'Military art and science -- Rome -- Early works to 1800'
+title: Les stratagèmes
+url: http://www.gutenberg.org/ebooks/16237
